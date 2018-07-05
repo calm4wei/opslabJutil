@@ -8,7 +8,7 @@
 #开发环境
     Win7x64 && ubuntu14 && MacOS
     JDK1.7
-    IDEA14
+    IDEA15
 
 
 #usage
